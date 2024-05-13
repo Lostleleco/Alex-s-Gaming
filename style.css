@@ -1,0 +1,77 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   
+}
+header{
+   width: 100%;
+   
+}
+header ul li a {
+    list-style: none;
+    color: white;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+}
+header h1, #jogos{
+    font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+  color: white;
+
+}
+footer{
+   background-color: blue;
+   color: white;
+   margin-top: auto;
+}
+
+.final {
+   text-align: center;
+   align-items: center;
+}
+.ultima-linha h1{ 
+   margin-left: 38%;
+   font-family: "Poetsen One", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+   color: white;
+}
+
+.entre h1 {
+   margin-left: 35%;
+   font-family: "Poetsen One", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+   color: white;
+}
+
+#email, #mensagem{
+   width: 40%;
+   margin-bottom: 8px;
+   
+}
+#inicio{
+   background-color:blue;
+  
+   
+}
+#tendencias {background-color: blue;
+}
+
+#Sugestoes{
+   background-color: rgb(151, 205, 241);
+}
+.final, .contato {
+   color: white;
+}
+
+footer{
+   padding: 16px;
+   margin-bottom: 0;
+
+}
